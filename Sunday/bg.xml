@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background0000" x="0" y="0" width="1938" height="950"/>
+	<SubTexture name="bg_with_seizures0000" x="1938" y="0" width="1935" height="829" frameX="-127" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_with_seizures0001" x="3873" y="0" width="1930" height="829" frameX="-48" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_with_seizures0002" x="5803" y="0" width="2189" height="829"/>
+	<SubTexture name="bg_with_seizures0003" x="0" y="950" width="1935" height="829" frameX="-127" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_with_seizures0004" x="1935" y="950" width="1930" height="829" frameX="-48" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_with_seizures0005" x="3865" y="950" width="2189" height="829"/>
+	<SubTexture name="bg_withought_seizures0000" x="1938" y="0" width="1935" height="829" frameX="-127" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_withought_seizures0001" x="6054" y="950" width="1930" height="829" frameX="-48" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_withought_seizures0002" x="0" y="1779" width="2189" height="829"/>
+	<SubTexture name="bg_withought_seizures0003" x="0" y="950" width="1935" height="829" frameX="-127" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_withought_seizures0004" x="2189" y="1779" width="1930" height="829" frameX="-48" frameY="0" frameWidth="2189" frameHeight="829"/>
+	<SubTexture name="bg_withought_seizures0005" x="4119" y="1779" width="2189" height="829"/>
+</TextureAtlas>
