@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momiDia.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="momi dia0000" x="0" y="0" width="381" height="325" frameX="0" frameY="0" frameWidth="396" frameHeight="325"/>
+	<SubTexture name="momi dia0001" x="381" y="0" width="381" height="325" frameX="-5" frameY="0" frameWidth="396" frameHeight="325"/>
+	<SubTexture name="momi dia0002" x="0" y="325" width="381" height="325" frameX="-10" frameY="0" frameWidth="396" frameHeight="325"/>
+	<SubTexture name="momi dia0003" x="381" y="325" width="381" height="325" frameX="-15" frameY="0" frameWidth="396" frameHeight="325"/>
+</TextureAtlas>

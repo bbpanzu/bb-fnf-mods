@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgFront.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg_destroy0000" x="0" y="0" width="1971" height="1257"/>
+	<SubTexture name="bg_normal0000" x="1971" y="0" width="1971" height="1257"/>
+</TextureAtlas>

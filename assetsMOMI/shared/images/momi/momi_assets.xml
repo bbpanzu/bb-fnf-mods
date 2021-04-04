@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momi_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="momi down0000" x="0" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0001" x="0" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0002" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0003" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0004" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0005" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0006" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0007" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0008" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0009" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi down0010" x="567" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0000" x="1134" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0001" x="1134" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0002" x="1134" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0003" x="1701" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0004" x="1701" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0005" x="2268" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0006" x="2835" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0007" x="2835" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0008" x="3402" y="0" width="567" height="717"/>
+	<SubTexture name="momi idle0009" x="3402" y="0" width="567" height="717"/>
+	<SubTexture name="momi left0000" x="0" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0001" x="0" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0002" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0003" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0004" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0005" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0006" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0007" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0008" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0009" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi left0010" x="567" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0000" x="1134" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0001" x="1134" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0002" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0003" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0004" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0005" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0006" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0007" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0008" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0009" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi right0010" x="1701" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0000" x="2268" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0001" x="2268" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0002" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0003" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0004" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0005" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0006" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0007" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0008" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0009" x="2835" y="717" width="567" height="717"/>
+	<SubTexture name="momi up0010" x="2835" y="717" width="567" height="717"/>
+</TextureAtlas>
