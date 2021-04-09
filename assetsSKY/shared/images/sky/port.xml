@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="port.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait0000" x="0" y="0" width="365" height="314"/>
+	<SubTexture name="portrait0001" x="365" y="0" width="365" height="314"/>
+	<SubTexture name="portrait0002" x="0" y="314" width="365" height="314"/>
+	<SubTexture name="portrait0003" x="365" y="314" width="365" height="314"/>
+	<SubTexture name="portrait0004" x="0" y="628" width="365" height="314"/>
+	<SubTexture name="portrait0005" x="365" y="628" width="365" height="314"/>
+	<SubTexture name="portrait0006" x="0" y="0" width="365" height="314"/>
+	<SubTexture name="portrait0007" x="365" y="0" width="365" height="314"/>
+	<SubTexture name="portrait0008" x="0" y="314" width="365" height="314"/>
+	<SubTexture name="portrait0009" x="365" y="314" width="365" height="314"/>
+	<SubTexture name="portrait0010" x="0" y="628" width="365" height="314"/>
+	<SubTexture name="portrait0011" x="365" y="628" width="365" height="314"/>
+	<SubTexture name="portrait0012" x="0" y="0" width="365" height="314"/>
+	<SubTexture name="portrait0013" x="365" y="0" width="365" height="314"/>
+	<SubTexture name="portrait0014" x="0" y="314" width="365" height="314"/>
+	<SubTexture name="portrait0015" x="365" y="314" width="365" height="314"/>
+	<SubTexture name="portrait0016" x="0" y="628" width="365" height="314"/>
+	<SubTexture name="portrait0017" x="365" y="628" width="365" height="314"/>
+</TextureAtlas>

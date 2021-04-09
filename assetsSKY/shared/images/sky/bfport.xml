@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfport.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfport0000" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0001" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0002" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0003" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0004" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="bfport0005" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="bfport0006" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0007" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0008" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0009" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0010" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="bfport0011" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="bfport0012" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0013" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0014" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0015" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="bfport0016" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="bfport0017" x="0" y="314" width="416" height="314"/>
+</TextureAtlas>

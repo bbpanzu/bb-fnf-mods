@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfport.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfporFUCKYOU0000" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0001" x="0" y="0" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0002" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0003" x="416" y="0" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0004" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0005" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0006" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0007" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0008" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0009" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0010" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0011" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0012" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0013" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0014" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0015" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0016" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfporFUCKYOU0017" x="0" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0000" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0001" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0002" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0003" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0004" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0005" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0006" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0007" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0008" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0009" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0010" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0011" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0012" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0013" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0014" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0015" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0016" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0017" x="416" y="628" width="416" height="314"/>
+</TextureAtlas>

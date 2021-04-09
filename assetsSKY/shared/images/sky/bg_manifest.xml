@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_manifest.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg_manifest0000" x="0" y="0" width="2131" height="1171"/>
+	<SubTexture name="bg_manifest0001" x="2131" y="0" width="2131" height="1171"/>
+	<SubTexture name="bg_manifest0002" x="4262" y="0" width="2131" height="1171"/>
+	<SubTexture name="bg_manifest0003" x="0" y="1171" width="2131" height="1171"/>
+	<SubTexture name="bg_manifest0004" x="0" y="1171" width="2131" height="1171"/>
+	<SubTexture name="bg_manifest0005" x="0" y="1171" width="2131" height="1171"/>
+	<SubTexture name="bg_manifest0006" x="0" y="1171" width="2131" height="1171"/>
+	<SubTexture name="bg_manifest0007" x="0" y="1171" width="2131" height="1171"/>
+</TextureAtlas>

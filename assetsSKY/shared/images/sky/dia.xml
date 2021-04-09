@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dia.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dia0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="dia0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="dia0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="dia0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="dia0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="dia0005" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="dia0006" x="0" y="1440" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="port_mad.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portrait mad0000" x="0" y="0" width="365" height="314"/>
+	<SubTexture name="portrait mad0001" x="365" y="0" width="365" height="314"/>
+	<SubTexture name="portrait mad0002" x="0" y="314" width="365" height="314"/>
+	<SubTexture name="portrait mad0003" x="365" y="314" width="365" height="314"/>
+	<SubTexture name="portrait mad0004" x="0" y="628" width="365" height="314"/>
+	<SubTexture name="portrait mad0005" x="365" y="628" width="365" height="314"/>
+	<SubTexture name="portrait mad0006" x="0" y="0" width="365" height="314"/>
+	<SubTexture name="portrait mad0007" x="365" y="0" width="365" height="314"/>
+	<SubTexture name="portrait mad0008" x="0" y="314" width="365" height="314"/>
+	<SubTexture name="portrait mad0009" x="365" y="314" width="365" height="314"/>
+	<SubTexture name="portrait mad0010" x="0" y="628" width="365" height="314"/>
+	<SubTexture name="portrait mad0011" x="365" y="628" width="365" height="314"/>
+	<SubTexture name="portrait mad0012" x="0" y="0" width="365" height="314"/>
+	<SubTexture name="portrait mad0013" x="365" y="0" width="365" height="314"/>
+	<SubTexture name="portrait mad0014" x="0" y="314" width="365" height="314"/>
+	<SubTexture name="portrait mad0015" x="365" y="314" width="365" height="314"/>
+	<SubTexture name="portrait mad0016" x="0" y="628" width="365" height="314"/>
+	<SubTexture name="portrait mad0017" x="365" y="628" width="365" height="314"/>
+</TextureAtlas>
