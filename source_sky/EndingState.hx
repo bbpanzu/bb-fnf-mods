@@ -26,12 +26,18 @@ class EndingState extends FlxState
 		if (_goodEnding){
 			end.loadGraphic(Paths.image("sky/ending0002"));
 			FlxG.sound.playMusic(Paths.music("goodEnding"),1,false);
+		FlxG.camera.fade(FlxColor.BLACK, 0.8, true);
 		}else{
+			if(FlxG.random.bool(70)){
 			end.loadGraphic(Paths.image("sky/ending0001"));
-			FlxG.sound.playMusic(Paths.music("badEnding"),1,false);
+			FlxG.sound.playMusic(Paths.music("badEnding"), 1, false);
+			FlxG.camera.fade(FlxColor.BLACK, 0.8, true);
+			}else{
+			end.loadGraphic(Paths.image("sky/ending0003"));
+			FlxG.sound.playMusic(Paths.music("peanut"), 1, false);
+			}
 		}
 		add(end);
-		FlxG.camera.fade(FlxColor.BLACK, 0.8, true);
 		
 		
 		new FlxTimer().start(8, endIt);

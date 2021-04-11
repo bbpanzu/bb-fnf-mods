@@ -60,12 +60,14 @@ class PlayState extends MusicBeatState
 	public static var goods:Int = 0;
 	public static var sicks:Int = 0;
 	public static var bot:Bool = false;
+	public static var sez:Bool = false;
 
 	public static var songPosBG:FlxSprite;
 	public static var songPosBar:FlxBar;
 
 	public static var rep:Replay;
 	public static var loadRep:Bool = false;
+	public static var alreadyCutscened:Bool = false;
 
 	public static var noteBools:Array<Bool> = [false, false, false, false];
 
@@ -1007,34 +1009,40 @@ class PlayState extends MusicBeatState
 				case 'sky':
 					schoolIntro(doof);
 				case 'manifest':
-					var blackScreen:FlxSprite = new FlxSprite(0, 0).makeGraphic(Std.int(FlxG.width * 2), Std.int(FlxG.height * 2), FlxColor.BLACK);
-					add(blackScreen);
-					blackScreen.scrollFactor.set();
-					camHUD.visible = false;
+					if (alreadyCutscened){
+						startCountdown();
+					}else{
+						var blackScreen:FlxSprite = new FlxSprite(0, 0).makeGraphic(Std.int(FlxG.width * 2), Std.int(FlxG.height * 2), FlxColor.BLACK);
+						add(blackScreen);
+						blackScreen.scrollFactor.set();
+						camHUD.visible = false;
 
-					new FlxTimer().start(0.1, function(tmr:FlxTimer)
-					{
-						remove(blackScreen);
-						//FlxG.sound.play(Paths.sound('Lights_Turn_On'));
-						camFollow.y = gf.y+130;
-						camFollow.x = gf.getGraphicMidpoint().x;
-						
-						FlxG.camera.focusOn(gf.getGraphicMidpoint());
-						FlxG.camera.zoom = 3;
-						FlxG.sound.playMusic(Paths.music('manifest'), 1);
-						new FlxTimer().start(2, function(tmr:FlxTimer)
+						new FlxTimer().start(0.1, function(tmr:FlxTimer)
 						{
-							camHUD.visible = true;
 							remove(blackScreen);
-							FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 2.5, {
-								ease: FlxEase.quadInOut,
-								onComplete: function(twn:FlxTween)
-								{
-									schoolIntro(doof);
-								}
+							//FlxG.sound.play(Paths.sound('Lights_Turn_On'));
+							camFollow.y = gf.y+130;
+							camFollow.x = gf.getGraphicMidpoint().x;
+							
+							FlxG.camera.focusOn(gf.getGraphicMidpoint());
+							FlxG.camera.zoom = 3;
+							FlxG.sound.playMusic(Paths.music('manifest'), 1);
+							new FlxTimer().start(2, function(tmr:FlxTimer)
+							{
+								camHUD.visible = true;
+								remove(blackScreen);
+								FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 2.5, {
+									ease: FlxEase.quadInOut,
+									onComplete: function(twn:FlxTween)
+									{
+											schoolIntro(doof);
+											alreadyCutscened = true;
+										
+									}
+								});
 							});
 						});
-					});
+					}
 				default:
 					startCountdown();
 			}
@@ -2313,10 +2321,10 @@ class PlayState extends MusicBeatState
 				{
 
 					if (curSong == "Manifest"){
-						FlxG.switchState(new EndingState(health >= 1));
+						FlxG.switchState(new EndingState(accuracy >= 70));
 						
 						
-					if (health >=1){
+					if (accuracy >= 70){
 						
 						FlxG.sound.playMusic(Paths.music("goodEnding"),1,false);
 					}else{
@@ -2397,8 +2405,25 @@ class PlayState extends MusicBeatState
 			else
 			{
 				trace('WENT BACK TO FREEPLAY??');
-					
+					#if debug
+					if (curSong == "Manifest"){
+						FlxG.switchState(new EndingState(accuracy >= 70));
+						
+						
+					if (accuracy >= 70){
+						
+						FlxG.sound.playMusic(Paths.music("goodEnding"),1,false);
+					}else{
+						FlxG.sound.playMusic(Paths.music("badEnding"),1,false);
+					}
+						
+					}else{
 				FlxG.switchState(new FreeplayState());
+					}
+					
+					#else
+				FlxG.switchState(new FreeplayState());
+				#end
 			}
 		}
 	}
@@ -3495,10 +3520,12 @@ class PlayState extends MusicBeatState
 		if (curBeat % gfSpeed == 0)
 		{
 			gf.dance();
+			if(sez){
 			if (curStage == "theShift") shiftbg.animation.play("bop");
 			if (curStage == "theManifest"){
 				shiftbg.animation.play("bop");
 				floor.animation.play("bop");
+			}
 			}
 		}
 
