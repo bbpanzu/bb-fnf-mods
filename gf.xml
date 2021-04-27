@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF idle0000" x="0" y="0" width="521" height="693"/>
+	<SubTexture name="GF idle0001" x="0" y="0" width="521" height="693"/>
+	<SubTexture name="GF idle0002" x="521" y="0" width="521" height="693"/>
+	<SubTexture name="GF idle0003" x="521" y="0" width="521" height="693"/>
+	<SubTexture name="GF idle0004" x="1042" y="0" width="521" height="693"/>
+	<SubTexture name="GF idle0005" x="1042" y="0" width="521" height="693"/>
+	<SubTexture name="GF idle0006" x="0" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0007" x="0" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0008" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0009" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0010" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0011" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0012" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0013" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0014" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0015" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0016" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0017" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0018" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0019" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0020" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0021" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0022" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0023" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0024" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0025" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0026" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0027" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0028" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF idle0029" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0000" x="0" y="0" width="521" height="693"/>
+	<SubTexture name="GF miss0001" x="0" y="0" width="521" height="693"/>
+	<SubTexture name="GF miss0002" x="521" y="0" width="521" height="693"/>
+	<SubTexture name="GF miss0003" x="521" y="0" width="521" height="693"/>
+	<SubTexture name="GF miss0004" x="1042" y="0" width="521" height="693"/>
+	<SubTexture name="GF miss0005" x="1042" y="0" width="521" height="693"/>
+	<SubTexture name="GF miss0006" x="0" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0007" x="0" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0008" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0009" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0010" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0011" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0012" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0013" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0014" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0015" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0016" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0017" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0018" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0019" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0020" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0021" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0022" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0023" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0024" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0025" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0026" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0027" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0028" x="521" y="693" width="521" height="693"/>
+	<SubTexture name="GF miss0029" x="521" y="693" width="521" height="693"/>
+</TextureAtlas>
