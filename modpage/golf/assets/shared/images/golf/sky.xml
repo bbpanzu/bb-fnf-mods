@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="daysky0000" x="0" y="0" width="2455" height="1297"/>
+	<SubTexture name="daysky0001" x="2455" y="0" width="2455" height="1297"/>
+	<SubTexture name="daysky0002" x="4910" y="0" width="2455" height="1297"/>
+	<SubTexture name="daysky0003" x="4910" y="0" width="2455" height="1297"/>
+	<SubTexture name="daysky0004" x="0" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0005" x="0" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0006" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0007" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0008" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0009" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0010" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0011" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0012" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0013" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="daysky0014" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="nightsky0000" x="4910" y="1297" width="2455" height="1297"/>
+	<SubTexture name="nightsky0001" x="0" y="2594" width="2455" height="1297"/>
+	<SubTexture name="nightsky0002" x="2455" y="2594" width="2455" height="1297"/>
+	<SubTexture name="nightsky0003" x="4910" y="2594" width="2455" height="1297"/>
+	<SubTexture name="nightsky0004" x="0" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0005" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0006" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0007" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0008" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0009" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0010" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0011" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0012" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0013" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="nightsky0014" x="2455" y="3891" width="2455" height="1297"/>
+</TextureAtlas>
