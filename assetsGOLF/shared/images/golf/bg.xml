@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="0" y="0" width="2455" height="1297"/>
+	<SubTexture name="bg0001" x="2455" y="0" width="2455" height="1297"/>
+	<SubTexture name="bg0002" x="4910" y="0" width="2455" height="1297"/>
+	<SubTexture name="bg0003" x="0" y="1297" width="2455" height="1297"/>
+	<SubTexture name="bg0004" x="2455" y="1297" width="2455" height="1297"/>
+	<SubTexture name="bg0005" x="4910" y="1297" width="2455" height="1297"/>
+	<SubTexture name="bg0006" x="4910" y="1297" width="2455" height="1297"/>
+	<SubTexture name="bg0007" x="0" y="2594" width="2455" height="1297"/>
+	<SubTexture name="bg0008" x="0" y="2594" width="2455" height="1297"/>
+	<SubTexture name="bg0009" x="2455" y="2594" width="2455" height="1297"/>
+	<SubTexture name="bg0010" x="2455" y="2594" width="2455" height="1297"/>
+	<SubTexture name="bg0011" x="2455" y="2594" width="2455" height="1297"/>
+	<SubTexture name="bg0012" x="4910" y="2594" width="2455" height="1297"/>
+	<SubTexture name="bg0013" x="0" y="0" width="2455" height="1297"/>
+	<SubTexture name="bg0014" x="0" y="3891" width="2455" height="1297"/>
+	<SubTexture name="bg0015" x="2455" y="3891" width="2455" height="1297"/>
+	<SubTexture name="bg0016" x="4910" y="3891" width="2455" height="1297"/>
+	<SubTexture name="bg0017" x="0" y="5188" width="2455" height="1297"/>
+	<SubTexture name="bg0018" x="0" y="5188" width="2455" height="1297"/>
+	<SubTexture name="bg0019" x="2455" y="5188" width="2455" height="1297"/>
+	<SubTexture name="bg0020" x="2455" y="5188" width="2455" height="1297"/>
+	<SubTexture name="bg0021" x="4910" y="5188" width="2455" height="1297"/>
+	<SubTexture name="bg0022" x="4910" y="5188" width="2455" height="1297"/>
+	<SubTexture name="bg0023" x="4910" y="5188" width="2455" height="1297"/>
+	<SubTexture name="bg0024" x="0" y="6485" width="2455" height="1297"/>
+	<SubTexture name="bg0025" x="0" y="0" width="2455" height="1297"/>
+</TextureAtlas>
