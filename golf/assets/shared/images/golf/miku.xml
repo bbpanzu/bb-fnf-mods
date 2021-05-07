@@ -42,7 +42,8 @@
 	<SubTexture name="mikuAnim0037" x="2151" y="0" width="717" height="775"/>
 	<SubTexture name="mikuAnim0038" x="2868" y="0" width="717" height="775"/>
 	<SubTexture name="mikuAnim0039" x="2868" y="0" width="717" height="775"/>
-	<SubTexture name="mikuAnim0040" x="0" y="0" width="717" height="775"/>
+	<SubTexture name="mikuAnim0040" x="0" y="0" width="717" height="775"/>	<SubTexture name="mikuAnim0040" x="0" y="0" width="717" height="775"/>
+
 	<SubTexture name="mikuAnim0041" x="0" y="0" width="717" height="775"/>
 	<SubTexture name="mikuAnim0042" x="717" y="0" width="717" height="775"/>
 	<SubTexture name="mikuAnim0043" x="717" y="0" width="717" height="775"/>
