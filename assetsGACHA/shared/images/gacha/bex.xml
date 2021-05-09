@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bex.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bexdance0000" x="0" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0001" x="0" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0002" x="454" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0003" x="454" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0004" x="908" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0005" x="908" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0006" x="1362" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0007" x="1362" y="0" width="454" height="454"/>
+	<SubTexture name="bexdance0008" x="0" y="454" width="454" height="454"/>
+	<SubTexture name="bexdance0009" x="0" y="454" width="454" height="454"/>
+	<SubTexture name="bexdance0010" x="454" y="454" width="454" height="454"/>
+	<SubTexture name="bexdance0011" x="908" y="454" width="454" height="454"/>
+	<SubTexture name="bexdance0012" x="908" y="454" width="454" height="454"/>
+	<SubTexture name="bexdance0013" x="1362" y="454" width="454" height="454"/>
+	<SubTexture name="bexdance0014" x="1362" y="454" width="454" height="454"/>
+	<SubTexture name="bexdance0015" x="0" y="908" width="454" height="454"/>
+	<SubTexture name="bexdance0016" x="0" y="908" width="454" height="454"/>
+	<SubTexture name="bexdance0017" x="454" y="908" width="454" height="454"/>
+	<SubTexture name="bexdance0018" x="454" y="908" width="454" height="454"/>
+	<SubTexture name="bexdance0019" x="908" y="908" width="454" height="454"/>
+	<SubTexture name="bexdance0020" x="908" y="908" width="454" height="454"/>
+	<SubTexture name="bexdance0021" x="1362" y="908" width="454" height="454"/>
+</TextureAtlas>
