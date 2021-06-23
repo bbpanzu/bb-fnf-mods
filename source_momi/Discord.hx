@@ -1,5 +1,6 @@
 package;
 
+#if windows
 import Sys.sleep;
 import discord_rpc.DiscordRpc;
 
@@ -25,6 +26,11 @@ class DiscordClient
 			//trace("Discord Client Update");
 		}
 
+		DiscordRpc.shutdown();
+	}
+
+	public static function shutdown()
+	{
 		DiscordRpc.shutdown();
 	}
 
@@ -80,3 +86,4 @@ class DiscordClient
 		//trace('Discord RPC Updated. Arguments: $details, $state, $smallImageKey, $hasStartTimestamp, $endTimestamp');
 	}
 }
+#end
