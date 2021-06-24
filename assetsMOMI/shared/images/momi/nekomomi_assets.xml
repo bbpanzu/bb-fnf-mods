@@ -18,18 +18,21 @@
 	<SubTexture name="momi cat idle0013" x="1056" y="0" width="528" height="709"/>
 	<SubTexture name="momi cat idle0014" x="1056" y="0" width="528" height="709"/>
 	<SubTexture name="momi cat idle0015" x="1056" y="0" width="528" height="709"/>
-	<SubTexture name="momi cat ranover0000" x="2640" y="0" width="1424" height="721" frameX="0" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0001" x="0" y="721" width="1416" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0002" x="1416" y="721" width="1416" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0003" x="1416" y="721" width="1416" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0004" x="0" y="1430" width="1459" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0005" x="0" y="1430" width="1459" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0006" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0007" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0008" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0009" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0010" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0011" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0012" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
-	<SubTexture name="momi cat ranover0013" x="1459" y="1430" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0000" x="2640" y="0" width="1416" height="721" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0001" x="0" y="721" width="1424" height="721" frameX="0" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0002" x="2640" y="0" width="1416" height="721" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0003" x="0" y="721" width="1424" height="721" frameX="0" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0004" x="1424" y="721" width="1416" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0005" x="0" y="1442" width="1416" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0006" x="0" y="1442" width="1416" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0007" x="1416" y="1442" width="1459" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0008" x="1416" y="1442" width="1459" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0009" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0010" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0011" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0012" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0013" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0014" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0015" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
+	<SubTexture name="momi cat ranover0016" x="0" y="2151" width="1599" height="709" frameX="-8" frameY="0" frameWidth="1607" frameHeight="721"/>
 </TextureAtlas>
