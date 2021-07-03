@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialougue Box.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dialogue Box0000" x="0" y="0" width="120" height="240" frameX="-538" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0001" x="120" y="0" width="191" height="240" frameX="-501" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0002" x="311" y="0" width="299" height="240" frameX="-447" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0003" x="610" y="0" width="415" height="240" frameX="-389" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0004" x="1025" y="0" width="478" height="240" frameX="-358" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0005" x="1025" y="0" width="478" height="240" frameX="-358" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0006" x="0" y="240" width="590" height="240" frameX="-302" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0007" x="590" y="240" width="706" height="240" frameX="-244" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0008" x="0" y="480" width="814" height="240" frameX="-190" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0009" x="814" y="480" width="914" height="240" frameX="-140" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0010" x="0" y="720" width="966" height="240" frameX="-114" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0011" x="0" y="720" width="966" height="240" frameX="-114" frameY="0" frameWidth="1194" frameHeight="240"/>
+	<SubTexture name="Dialogue Box0012" x="0" y="960" width="1194" height="240"/>
+</TextureAtlas>
