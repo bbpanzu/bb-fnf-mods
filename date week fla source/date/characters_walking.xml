@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="characters_walking.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="characters_walking0000" x="0" y="0" width="1877" height="448"/>
+	<SubTexture name="characters_walking0001" x="0" y="0" width="1877" height="448"/>
+	<SubTexture name="characters_walking0002" x="1877" y="0" width="1877" height="448"/>
+	<SubTexture name="characters_walking0003" x="1877" y="0" width="1877" height="448"/>
+	<SubTexture name="characters_walking0004" x="0" y="448" width="1877" height="448"/>
+	<SubTexture name="characters_walking0005" x="0" y="448" width="1877" height="448"/>
+	<SubTexture name="characters_walking0006" x="1877" y="448" width="1877" height="448"/>
+	<SubTexture name="characters_walking0007" x="1877" y="448" width="1877" height="448"/>
+	<SubTexture name="characters_walking0008" x="0" y="896" width="1877" height="448"/>
+	<SubTexture name="characters_walking0009" x="0" y="896" width="1877" height="448"/>
+	<SubTexture name="characters_walking0010" x="1877" y="896" width="1877" height="448"/>
+	<SubTexture name="characters_walking0011" x="1877" y="896" width="1877" height="448"/>
+	<SubTexture name="characters_walking0012" x="0" y="1344" width="1877" height="448"/>
+	<SubTexture name="characters_walking0013" x="0" y="1344" width="1877" height="448"/>
+	<SubTexture name="characters_walking0014" x="1877" y="1344" width="1877" height="448"/>
+	<SubTexture name="characters_walking0015" x="1877" y="1344" width="1877" height="448"/>
+	<SubTexture name="characters_walking0016" x="0" y="1792" width="1877" height="448"/>
+	<SubTexture name="characters_walking0017" x="0" y="1792" width="1877" height="448"/>
+	<SubTexture name="characters_walking0018" x="1877" y="1792" width="1877" height="448"/>
+	<SubTexture name="characters_walking0019" x="1877" y="1792" width="1877" height="448"/>
+	<SubTexture name="characters_walking0020" x="1877" y="1792" width="1877" height="448"/>
+	<SubTexture name="characters_walking0021" x="1877" y="1792" width="1877" height="448"/>
+	<SubTexture name="characters_walking0022" x="0" y="2240" width="1877" height="448"/>
+	<SubTexture name="characters_walking0023" x="0" y="2240" width="1877" height="448"/>
+	<SubTexture name="characters_walking0024" x="1877" y="2240" width="1877" height="448"/>
+	<SubTexture name="characters_walking0025" x="1877" y="2240" width="1877" height="448"/>
+	<SubTexture name="characters_walking0026" x="0" y="2688" width="1877" height="448"/>
+	<SubTexture name="characters_walking0027" x="0" y="2688" width="1877" height="448"/>
+	<SubTexture name="characters_walking0028" x="1877" y="2688" width="1877" height="448"/>
+	<SubTexture name="characters_walking0029" x="1877" y="2688" width="1877" height="448"/>
+	<SubTexture name="characters_walking0030" x="1877" y="2688" width="1877" height="448"/>
+	<SubTexture name="characters_walking0031" x="1877" y="2688" width="1877" height="448"/>
+	<SubTexture name="characters_walking0032" x="0" y="3136" width="1877" height="448"/>
+	<SubTexture name="characters_walking0033" x="0" y="3136" width="1877" height="448"/>
+</TextureAtlas>

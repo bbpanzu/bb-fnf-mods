@@ -1,0 +1,49 @@
+///whitroll
+sky_bg(-21,-236)**scroll factor of 0.1
+skyscrapers(-122,68)**scroll factor of 0.3
+balc(-248,305)**scroll factor of 0.9
+
+
+///perfume
+
+citycolor(-125,-150.75)**scroll facotr of 0
+cityfarbg(525,132.3) **scroll factor of like (0.2,0.4)
+citybg(-182.8,-77.75) **scroll factor of like (0.4,0.4)
+
+characters_walking(-192.05,-42.35) **scroll factor of 0.9
+	-daliaayanna
+		-[0,1,2,3,4,5,6,7,8,9,10,11]
+		-switch when x < -2001.45
+
+	-sarvruv
+		-[12,13,14,15,16,17,18,19,20,21,22,23]
+		-switch when x > 1434.4
+
+	-koukapi
+		-[24,25,26,27,28,29,30,31,32,33,34,35]
+		-switch when x > -2001.45
+	
+wallbg (-208.05,-774.35)
+
+///heartbass
+
+sky_heartbass(-12,-10)**scroll facotr of 0
+bg_hb(-185.5,220)**scroll factor of (0.2,0.2)
+midg(-20.5,123)**scrollfacotr of 0.5
+farris_wheel(225,157)**scrollfacotr of 0.6
+farris_seat()**scrollfacotr of 0.65
+
+fair_gate(-335.3,484.8)**scrollfactor of 0.95
+
+
+
+
+
+
+carol coords (84.05,-5.75)
+whitty coords(409,-5.75)
+
+
+shade (-451.05,-560.15)
+light (155.05,-282.9)
+deco(-176.95,-28) **scroll factor like 1.2
