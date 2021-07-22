@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duck_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duck down0000" x="0" y="0" width="387" height="284" frameX="0" frameY="-7" frameWidth="387" frameHeight="299"/>
+	<SubTexture name="duck down0001" x="387" y="0" width="387" height="299"/>
+	<SubTexture name="duck down0002" x="774" y="0" width="387" height="267" frameX="0" frameY="-15" frameWidth="387" frameHeight="299"/>
+	<SubTexture name="duck idle0000" x="1161" y="0" width="388" height="472" frameX="0" frameY="-36" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0001" x="1549" y="0" width="388" height="544"/>
+	<SubTexture name="duck idle0002" x="1937" y="0" width="388" height="484" frameX="0" frameY="-30" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0003" x="2325" y="0" width="388" height="412" frameX="0" frameY="-66" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0004" x="2713" y="0" width="388" height="436" frameX="0" frameY="-54" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0005" x="3101" y="0" width="388" height="472" frameX="0" frameY="-36" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0006" x="3489" y="0" width="388" height="515" frameX="0" frameY="-15" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0007" x="3489" y="0" width="388" height="515" frameX="0" frameY="-15" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0008" x="3489" y="0" width="388" height="515" frameX="0" frameY="-15" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0009" x="3489" y="0" width="388" height="515" frameX="0" frameY="-15" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck idle0010" x="3489" y="0" width="388" height="515" frameX="0" frameY="-15" frameWidth="388" frameHeight="544"/>
+	<SubTexture name="duck left0000" x="0" y="544" width="377" height="312" frameX="-6" frameY="-23" frameWidth="383" frameHeight="359"/>
+	<SubTexture name="duck left0001" x="377" y="544" width="370" height="359" frameX="-3" frameY="0" frameWidth="383" frameHeight="359"/>
+	<SubTexture name="duck left0002" x="747" y="544" width="365" height="319" frameX="0" frameY="-20" frameWidth="383" frameHeight="359"/>
+	<SubTexture name="duck left0003" x="1112" y="544" width="369" height="273" frameX="-2" frameY="-42" frameWidth="383" frameHeight="359"/>
+	<SubTexture name="duck right0000" x="1481" y="544" width="404" height="312" frameX="-5" frameY="-23" frameWidth="448" frameHeight="359"/>
+	<SubTexture name="duck right0001" x="1885" y="544" width="422" height="359" frameX="-6" frameY="0" frameWidth="448" frameHeight="359"/>
+	<SubTexture name="duck right0002" x="2307" y="544" width="433" height="319" frameX="-3" frameY="-20" frameWidth="448" frameHeight="359"/>
+	<SubTexture name="duck right0003" x="2740" y="544" width="443" height="273" frameX="-1" frameY="-42" frameWidth="448" frameHeight="359"/>
+	<SubTexture name="duck right0004" x="3183" y="544" width="448" height="289" frameX="0" frameY="-34" frameWidth="448" frameHeight="359"/>
+	<SubTexture name="duck up0000" x="3631" y="544" width="387" height="424" frameX="0" frameY="-107" frameWidth="387" frameHeight="639"/>
+	<SubTexture name="duck up0001" x="0" y="968" width="387" height="479" frameX="0" frameY="-80" frameWidth="387" frameHeight="639"/>
+	<SubTexture name="duck up0002" x="387" y="968" width="386" height="539" frameX="0" frameY="-50" frameWidth="387" frameHeight="639"/>
+	<SubTexture name="duck up0003" x="773" y="968" width="386" height="571" frameX="0" frameY="-34" frameWidth="387" frameHeight="639"/>
+	<SubTexture name="duck up0004" x="1159" y="968" width="386" height="619" frameX="0" frameY="-10" frameWidth="387" frameHeight="639"/>
+	<SubTexture name="duck up0005" x="1545" y="968" width="386" height="639" frameX="0" frameY="0" frameWidth="387" frameHeight="639"/>
+	<SubTexture name="duck up0006" x="1545" y="968" width="386" height="639" frameX="0" frameY="0" frameWidth="387" frameHeight="639"/>
+</TextureAtlas>
