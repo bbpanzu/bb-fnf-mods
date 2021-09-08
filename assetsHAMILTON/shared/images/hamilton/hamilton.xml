@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hamilton.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hamilton0000" x="0" y="0" width="622" height="922" frameX="0" frameY="0" frameWidth="643" frameHeight="922"/>
+	<SubTexture name="hamilton0001" x="623" y="0" width="643" height="905" frameX="0" frameY="0" frameWidth="643" frameHeight="922"/>
+	<SubTexture name="hamilton0002" x="1267" y="0" width="620" height="913" frameX="0" frameY="0" frameWidth="643" frameHeight="922"/>
+	<SubTexture name="hamilton0003" x="0" y="923" width="601" height="905" frameX="0" frameY="0" frameWidth="643" frameHeight="922"/>
+	<SubTexture name="hamilton0004" x="602" y="923" width="622" height="921" frameX="0" frameY="0" frameWidth="643" frameHeight="922"/>
+</TextureAtlas>

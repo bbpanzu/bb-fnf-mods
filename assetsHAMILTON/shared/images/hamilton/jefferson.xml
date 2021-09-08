@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jefferson.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jefferson0000" x="0" y="0" width="1458" height="820"/>
+	<SubTexture name="jefferson0001" x="1459" y="0" width="1458" height="820"/>
+	<SubTexture name="jefferson0002" x="0" y="821" width="1458" height="820"/>
+	<SubTexture name="jefferson0003" x="1459" y="821" width="1458" height="820"/>
+	<SubTexture name="jefferson0004" x="0" y="1642" width="1458" height="820"/>
+</TextureAtlas>
