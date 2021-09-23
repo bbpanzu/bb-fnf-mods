@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doxxie_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="doxxie down0000" x="0" y="0" width="596" height="518"/>
+	<SubTexture name="doxxie down0001" x="0" y="0" width="596" height="518"/>
+	<SubTexture name="doxxie down0002" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie down0003" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie down0004" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie down0005" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie down0006" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie down0007" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie down0008" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie down0009" x="597" y="0" width="591" height="509" frameX="0" frameY="0" frameWidth="596" frameHeight="518"/>
+	<SubTexture name="doxxie giggle0000" x="1189" y="0" width="519" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="499"/>
+	<SubTexture name="doxxie giggle0001" x="1709" y="0" width="527" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="499"/>
+	<SubTexture name="doxxie giggle0002" x="2237" y="0" width="529" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="499"/>
+	<SubTexture name="doxxie giggle0003" x="2767" y="0" width="530" height="499"/>
+	<SubTexture name="doxxie giggle0004" x="3298" y="0" width="530" height="499"/>
+	<SubTexture name="doxxie idle0000" x="0" y="519" width="554" height="498" frameX="0" frameY="0" frameWidth="561" frameHeight="498"/>
+	<SubTexture name="doxxie idle0001" x="555" y="519" width="555" height="498" frameX="0" frameY="0" frameWidth="561" frameHeight="498"/>
+	<SubTexture name="doxxie idle0002" x="1111" y="519" width="554" height="498" frameX="0" frameY="0" frameWidth="561" frameHeight="498"/>
+	<SubTexture name="doxxie idle0003" x="1666" y="519" width="561" height="498"/>
+	<SubTexture name="doxxie idle0004" x="2228" y="519" width="560" height="498" frameX="0" frameY="0" frameWidth="561" frameHeight="498"/>
+	<SubTexture name="doxxie idle0005" x="2789" y="519" width="561" height="498"/>
+	<SubTexture name="doxxie idle0006" x="2789" y="519" width="561" height="498"/>
+	<SubTexture name="doxxie idle0007" x="2789" y="519" width="561" height="498"/>
+	<SubTexture name="doxxie idle0008" x="2789" y="519" width="561" height="498"/>
+	<SubTexture name="doxxie idle0009" x="2789" y="519" width="561" height="498"/>
+	<SubTexture name="doxxie laugh0000" x="3351" y="519" width="507" height="500" frameX="0" frameY="0" frameWidth="530" frameHeight="500"/>
+	<SubTexture name="doxxie laugh0001" x="0" y="1020" width="523" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="500"/>
+	<SubTexture name="doxxie laugh0002" x="524" y="1020" width="527" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="500"/>
+	<SubTexture name="doxxie laugh0003" x="1052" y="1020" width="529" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="500"/>
+	<SubTexture name="doxxie laugh0004" x="1582" y="1020" width="530" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="500"/>
+	<SubTexture name="doxxie laugh0005" x="2113" y="1020" width="530" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="500"/>
+	<SubTexture name="doxxie left0000" x="2644" y="1020" width="496" height="502" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0001" x="2644" y="1020" width="496" height="502" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0002" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0003" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0004" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0005" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0006" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0007" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0008" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie left0009" x="3141" y="1020" width="505" height="501" frameX="0" frameY="0" frameWidth="505" frameHeight="502"/>
+	<SubTexture name="doxxie right0000" x="0" y="1523" width="612" height="504"/>
+	<SubTexture name="doxxie right0001" x="0" y="1523" width="612" height="504"/>
+	<SubTexture name="doxxie right0002" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie right0003" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie right0004" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie right0005" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie right0006" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie right0007" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie right0008" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie right0009" x="613" y="1523" width="608" height="504" frameX="0" frameY="0" frameWidth="612" frameHeight="504"/>
+	<SubTexture name="doxxie up0000" x="1222" y="1523" width="519" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="499"/>
+	<SubTexture name="doxxie up0001" x="1222" y="1523" width="519" height="499" frameX="0" frameY="0" frameWidth="530" frameHeight="499"/>
+	<SubTexture name="doxxie up0002" x="1742" y="1523" width="530" height="499"/>
+	<SubTexture name="doxxie up0003" x="1742" y="1523" width="530" height="499"/>
+	<SubTexture name="doxxie up0004" x="1742" y="1523" width="530" height="499"/>
+	<SubTexture name="doxxie up0005" x="1742" y="1523" width="530" height="499"/>
+	<SubTexture name="doxxie up0006" x="1742" y="1523" width="530" height="499"/>
+	<SubTexture name="doxxie up0007" x="1742" y="1523" width="530" height="499"/>
+	<SubTexture name="doxxie up0008" x="1742" y="1523" width="530" height="499"/>
+	<SubTexture name="doxxie up0009" x="1742" y="1523" width="530" height="499"/>
+</TextureAtlas>
