@@ -1,0 +1,5 @@
+1. Take the Funkin.exe and replace it with the original game version. it is important!!!
+
+2. now move the assets folder into the original game's folder with the assets folder visible. make sure to replace all!
+
+3. run Funkin.exe
