@@ -1,6 +1,9 @@
+SHIT TO BIG FOR GITHUB 
 https://www.mediafire.com/folder/bve3xlc0hkqbw/SHIT_TOO_BIG_FOR_GITHUB
 
->BlueNEW FLP
+
+INCLUDES: 
+>NEW Blue FLP
 
 >Chainlock FLP
 
